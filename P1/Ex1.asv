@@ -1,0 +1,5 @@
+clc, clearvars,close all
+
+A= [1:1000000000;
+    1:1000000000];
+whos
