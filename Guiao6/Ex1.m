@@ -57,5 +57,3 @@ end
 
 %% 6.3 Filtros de Bloom
 
-K=
-bf=
